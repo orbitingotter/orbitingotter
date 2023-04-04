@@ -6,7 +6,7 @@ I'm a graphics/rendering programmer...
 
 
 ## 🛠 Skills
-Languages : C / C++
+Languages : C / C++, C#
 
 Rendering APIs : Direct3D11, OpenGL
 
@@ -15,7 +15,7 @@ Engines : Unity, UE4
 
 ## 🌱 Work
 
-🔭 I'm currently working on OpenGL & Direct3D11...
+🔭 I'm currently working on OpenGL & Direct3D11 - shadow mapping techniques...
 
 📫 Reach me - iamchandanpriyadarshi@gmail.com
 
