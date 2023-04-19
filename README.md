@@ -20,11 +20,19 @@ Engines : Unity, UE4
 📫 Reach me - iamchandanpriyadarshi@gmail.com
 
 
-## 🔭 Screenshots
+## 🔭 Screenshots & Highlights
+
+OpenGL Repo-
 
 https://user-images.githubusercontent.com/112700146/215334019-6ce7eca4-3d2c-42eb-b0a7-eef1e5db8960.mp4
 
+Direct3D11 Repo-
+
 <img src="https://user-images.githubusercontent.com/112700146/201127469-e164c6ce-ee2b-48b0-acfb-39c859aaa0f1.png" width="750"/>
+
+SpookyAnimation Repo (College Project)-
+
+![AnimationGIF](https://user-images.githubusercontent.com/112700146/232974513-43507ec7-6bfd-40da-9681-2782fc06d137.gif)
 
 <!--
 **orbitingotter/orbitingotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
